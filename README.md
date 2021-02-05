@@ -1,0 +1,4 @@
+- Trevor Crystal
+- ![Trevor](images/trevor.jpg)
+- 2021
+- Still not sure on exact project, but working on a different aspect of OpenCircuits than I do in RCOS interests me
